@@ -10,10 +10,10 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/vajirabot1/KING-VAJIRA-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94766943622'
+global.sudo = process.env.SUDO || '7029916612'
 global.devs = '94766943622';
-global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' //wa.me/+25000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg'
+global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' //wa.me/+917029916612
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://storage/emulated/0/DCIM/Camera/lv_0_20231115223213.mp4'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'VAJIRA 𝐁𝐨𝐭' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'Vajira' : process.env.OWNER_NAME,
